@@ -8,7 +8,7 @@
 1. HTML <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 Estruturado: A base sólida com uma estrutura bem definida para o slider e a navegação.
 
-2. CSS <img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+2. CSS <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 Criativo: Aplicação de técnicas avançadas de CSS para criar animações envolventes e um design responsivo e moderno.
 
 4. JavaScript <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
