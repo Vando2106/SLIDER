@@ -7,15 +7,21 @@
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <br>
+<br>
 Estruturado: A base sólida com uma estrutura bem definida para o slider e a navegação.
+<br>
 <br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br>
+<br>
 Criativo: Aplicação de técnicas avançadas de CSS para criar animações envolventes e um design responsivo e moderno.
+<br>
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <br>
+<br>
 Dinâmico: Implementação de lógica para transições suaves entre slides, controle de navegação e otimização do desempenho.
+<br>
 <br>
 <h2>✨ Funcionalidades:</h2>
 <br>
